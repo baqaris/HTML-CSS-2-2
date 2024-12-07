@@ -1,0 +1,284 @@
+body {
+    max-width: 1920px;
+    height: 1499px;
+    margin: 0px;
+}
+
+#headerOne {
+    display: block;
+    width: 1140px;
+    padding-top: 12px;
+    padding-right: 80px;
+    padding-bottom: 12px;
+    padding-left: 80px;
+    text-align: center;
+    text-decoration: none;
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+#logo {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 176.17px;
+}
+
+#navI {
+    display: inline-block;
+    justify-content: center;
+    vertical-align: middle;
+    margin: 0 50px;
+}
+
+#ContactUs {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Acontactus {
+    text-decoration: none;
+    margin-left: 176px;
+
+}
+
+#About {
+    text-decoration: none;
+    color: #FF5DA3;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    padding-right: 20px;
+}
+
+#whatWeOffer {
+    text-decoration: none;
+    color: #323232;
+    padding-right: 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#Contact {
+    text-decoration: none;
+    color: #323232;
+    padding-right: 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#Help {
+    text-decoration: none;
+    color: #323232;
+    padding-right: 20px;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+#ContactUs a {
+    text-decoration: none;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border: 1px solid green;
+    border-radius: 8px;
+    color: white;
+    background-color: #00AC25;
+    padding-top: 8px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+}
+
+#Conteiner {
+    display: block;
+    width: 1316px;
+    height: 843px;
+    text-align: center;
+    margin-top: 221px;
+    margin-right: 302px;
+    margin-bottom: 0;
+    margin-left: 302px;
+}
+
+#Text p {
+    color: #000;
+    text-align: center;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#Text span {
+    color: #FF5DA3;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#TextUnlock p {
+    color: #000;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+}
+
+#UnlockTheoportunity {
+    display: inline-block;
+    width: 716px;
+    height: 96px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+#UnlockTheoportunity p {
+    display: block;
+    color: #6941C6;
+    text-align: center;
+    font-family: "Hind Vadodara";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+#EnjoyManyPerks {
+    width: 100%;
+    color: #000;
+    text-align: center;
+    font-family: "Instrument Sans";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#BecomeAnInctruqtor {
+    display: inline-block;
+    width: 100%;
+    height: 54px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#BecomeAnInctruqtor a {
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid #00AC25;
+    background-color: #00AC25;
+    border-radius: 8px;
+    padding: 16px 24px;
+    color: white;
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+#footerPage {
+    display: block;
+    max-width: 1920px;
+    margin-top: 235px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    background-color: #53389E;
+    text-align: center;
+}
+
+#logoFooter {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 192px;
+
+}
+
+#footerNavigation {
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    width: 512px;
+    display: inline-block;
+    justify-content: center;
+    vertical-align: middle;
+    margin: 0 50px;
+}
+
+#ancorOverview {
+    color: #E9D7FE;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    text-decoration: none;
+    padding-right: 32px;
+
+}
+
+#ancorFeatuRes {
+    text-decoration: none;
+    color: #E9D7FE;
+    font-style: normal;
+    font-weight: 600;
+    padding-right: 32px;
+    font-size: 16px;
+}
+
+#ancorPricing {
+    text-decoration: none;
+    color: #E9D7FE;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    padding-right: 32px;
+}
+
+#ancorCareers {
+    text-decoration: none;
+    color: #E9D7FE;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 600;
+    padding-right: 32px;
+}
+
+#ancorHelp {
+    text-decoration: none;
+    color: #E9D7FE;
+    font-weight: 600;
+    font-size: 16px;
+    font-style: normal;
+    padding-right: 32px;
+}
+
+#ancorProvacy {
+    text-decoration: none;
+    color: #E9D7FE;
+    font-weight: 600;
+    font-size: 16px;
+    font-style: normal;
+}
+
+#UntitledUi {
+    display: inline-block;
+    justify-content: center;
+    color: #b98deb;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 192px;
+}
